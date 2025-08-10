@@ -92,7 +92,7 @@ function App() {
     }
   return (
     <>
-    <div className='font-bold text-center p-5 capitalize text-4xl tracking-normal bg-red-900'>
+    <div className='font-bold text-center p-5 capitalize text-4xl tracking-normal '>
       <h1 className='sm:text-lg mt-6 lg:text-3xl'>simple interest and compound interest calculator</h1>
     </div>
     
